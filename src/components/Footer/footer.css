@@ -1,0 +1,38 @@
+footer {
+    margin-top: 5rem;
+    background-color: var(--color-light);
+    padding: 5px 50px 10px 50px;
+    text-align: center;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
+
+footer a:hover{
+    color: var(--color-white);
+}
+
+footer h1{
+    font-size: 2rem;
+    padding-top: 0.75rem
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -1.1rem;
+}
+
+.footer-links h2{
+    font-weight: 500;
+    font-size: 1rem;
+    margin: 10px;
+}
+
+footer p{
+    font-weight: 200;
+    font-size: 0.75rem;
+    padding-top: 1rem;
+    background-color: var(--color-light);
+}

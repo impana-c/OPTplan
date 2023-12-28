@@ -1,0 +1,32 @@
+header {
+  padding-top: 4rem;
+  overflow: hidden;
+  background-image: linear-gradient(to right, #4A7EE0, #F0F0A9);
+  font-size: 200rem;
+  box-shadow: 0 3px 15px 0px rgba(0,0,0,0.3);
+}
+  
+.header__container {
+  text-align: left;
+  height: 100%;
+  position: static; 
+  padding-bottom: 2rem;
+}
+
+.headerText {
+  max-width: 100%;
+}
+
+.headerText h1 {
+  font-size: 6rem;
+  line-height: 130%;
+  color: var(--color-white);
+  text-shadow: 2px 2px 3px rgb(79, 79, 79);
+}
+
+.headerText h4 {
+  margin-top: -1rem;
+  font-size: 1.5rem;
+  text-indent: 18%;
+  color: var(--color-white);
+}
