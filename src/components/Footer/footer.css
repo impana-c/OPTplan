@@ -6,6 +6,7 @@ footer {
     justify-content: space-between;
     justify-content: center;
     align-items: center;
+    bottom: 0;
 }
 
 footer a:hover{

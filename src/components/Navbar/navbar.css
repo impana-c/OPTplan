@@ -10,7 +10,8 @@
 
 .left {
     align-items: center;
-    flex: 100%
+    display: flex;
+    flex: 100%;
 }
 
 .right {
@@ -44,6 +45,7 @@
 
 .navbar h1{
     color: var(--color-black);
+    display: inline;
 }
 
 .navbar h2{
@@ -51,4 +53,11 @@
     font-weight: 400;
     padding-right: 50px;
     color: var(--color-black);
+}
+
+.navbar img{
+    width: 60px;
+    display: inline;
+    margin-right: 10px;
+    margin-top: -0.5rem;
 }

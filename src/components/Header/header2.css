@@ -1,0 +1,45 @@
+.header2 {
+  padding-top: 1rem;
+  overflow: hidden;
+  background-image: linear-gradient(to right, #4A7EE0, #F0F0A9);
+  box-shadow: 0 3px 15px 0px rgba(0,0,0,0.3);
+}
+  
+.header2__container {
+  text-align: left;
+  height: 100%;
+  position: static; 
+  padding-bottom: 1rem;
+}
+
+.headerText2 {
+  max-width: 100%;
+}
+
+.headerText2 h1,
+.headerText2 h4 {
+  display: inline; /* or display: inline-block; */
+}
+
+.headerText2 h1 {
+  font-size: 4.5rem;
+  line-height: 130%;
+  color: var(--color-white);
+  text-shadow: 2px 2px 3px rgb(79, 79, 79);
+}
+
+.headerText2 h4 {
+  margin-top: -1rem;
+  margin-left: 0.8rem;
+  font-size: 1.5rem;
+  color: #fdffb9de;
+  text-shadow: 0.3px 0.3px 0.1px #363636;
+}
+
+/* .headerText2 h4 {
+  margin-top: -1rem;
+  margin-left: 0.8rem;
+  font-size: 1.2rem;
+  color: var(--color-light);
+  text-shadow: 0.4px 0.4px 0.4px #000;
+} */
