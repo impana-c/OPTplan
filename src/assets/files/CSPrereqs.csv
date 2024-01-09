@@ -1,0 +1,59 @@
+COM SCI_ID,COM SCI_Name,Units,Prerequisites
+COM SCI 1,Freshman Computer Science Seminar,[1.0],[]
+COM SCI 19,Fiat Lux Freshman Seminars,[1.0],[]
+COM SCI 30,Principles and Practices of Computing,[4.0],[]
+COM SCI 31,Introduction to Computer Science I,[4.0],[]
+COM SCI 32,Introduction to Computer Science II,[4.0],['COM SCI 31']
+COM SCI 33,Introduction to Computer Organization,[5.0],['COM SCI 32']
+COM SCI 35L,Software Construction,[4.0],['COM SCI 31']
+COM SCI M51A,Logic Design of Digital Systems,[4.0],[]
+COM SCI 97,Variable Topics in Computer Science,"[1.0, 4.0]",[]
+COM SCI 99,Student Research Program,"[1.0, 2.0]",[]
+COM SCI 111,Operating Systems Principles,[5.0],"['COM SCI 32', 'COM SCI 33', 'COM SCI 35L']"
+COM SCI 112,Modeling Uncertainty in Information Systems,[4.0],"['COM SCI 111', ['C&EE 110', 'ECE 131A', 'MATH 170A', 'MATH 170E', 'STATS 100A']]"
+COM SCI 117,Computer Networks: Physical Layer,[4.0],[]
+COM SCI 118,Computer Network Fundamentals,[4.0],['COM SCI 111']
+COM SCI M119,Fundamentals of Embedded Networked Systems,[4.0],"['COM SCI 33', ['COM SCI 118', 'ECE 132B'], ['C&EE 110', 'ECE 131A', 'MATH 170A', 'MATH 170E', 'STATS 100A']]"
+COM SCI C121,Probabilistic Models in Computational Genomics,[4.0],"[['COM SCI 32', 'PIC 10C'], ['C&EE 110', 'ECE 131A', 'MATH 170A', 'MATH 170E', 'STATS 100A']]"
+COM SCI C122,Algorithms in Computational Genomics,[4.0],"[['COM SCI 32', 'PIC 10C'], ['C&EE 110', 'ECE 131A', 'MATH 170A', 'MATH 170E', 'STATS 100A']]"
+COM SCI C124,Machine Learning Applications in Genetics,[4.0],"[['COM SCI 32', 'PIC 10C'], ['C&EE 110', 'ECE 131A', 'MATH 170A', 'MATH 170E', 'STATS 100A']]"
+COM SCI 130,Software Engineering,[4.0],"['COM SCI 111', 'COM SCI 131']"
+COM SCI 131,Programming Languages,[4.0],"['COM SCI 33', 'COM SCI 35L']"
+COM SCI 132,Compiler Construction,[4.0],['COM SCI 131']
+COM SCI 133,Parallel and Distributed Computing,[4.0],"['COM SCI 131', 'COM SCI M151B']"
+COM SCI 134,Distributed Systems,[4.0],['COM SCI 118']
+COM SCI 136,Introduction to Computer Security,[4.0],['COM SCI 118']
+COM SCI C137A,Prototyping Programming Languages,[4.0],['COM SCI 131']
+COM SCI C137B,Programming Language Design,[4.0],['COM SCI C137A']
+COM SCI 143,Data Management Systems,[4.0],"[['COM SCI 32', 'PIC 10C']]"
+COM SCI 144,Web Applications,[4.0],['COM SCI 143']
+COM SCI 145,Introduction to Data Mining,[4.0],['COM SCI 143']
+COM SCI M146,Introduction to Machine Learning,[4.0],"[['COM SCI 32', 'PIC 10A'], ['C&EE 110', 'ECE 131A', 'MATH 170A', 'MATH 170E', 'STATS 100A'], 'MATH 33A']"
+COM SCI M148,Introduction to Data Science,[4.0],"[['COM SCI 31', '&, PIC 10A, PIC 10B'], ['C&EE 110', 'ECE 131A', 'MATH 170A', 'MATH 170E', 'STATS 100A']]"
+COM SCI M151B,Computer Systems Architecture,[4.0],"['COM SCI 33', ['COM SCI M51A, 'ECE M16']]"
+COM SCI M152A,Introductory Digital Design Laboratory,[2.0],"[['COM SCI M51A, 'ECE M16']]"
+COM SCI 152B,Digital Design Project Laboratory,[4.0],"[['COM SCI M151B, 'ECE M116C']]"
+COM SCI 161,Fundamentals of Artificial Intelligence,[4.0],['COM SCI 180']
+COM SCI 162,Natural Language Processing,[4.0],"[['COM SCI 145', 'COM SCI M146']]"
+COM SCI 168,Computational Methods for Medical Imaging,[4.0],"[['COM SCI 32', 'PIC 10C'], 'MATH 33A', ['C&EE 110', 'ECE 131A', 'MATH 170A', 'MATH 170E', 'STATS 100A']]"
+COM SCI 170A,Mathematical Modeling and Methods for Computer Science,[4.0],"['COM SCI 180', 'MATH 33B']"
+COM SCI M171L,Data Communication Systems Laboratory,"[2.0, 4.0]",[]
+COM SCI 172,Real-Time Three-Dimensional Animation,[4.0],['COM SCI 32']
+COM SCI 174A,Introduction to Computer Graphics,[4.0],['COM SCI 32']
+COM SCI 174B,Introduction to Computer Graphics: Three-Dimensional Photography and Rendering,[4.0],['COM SCI 174A']
+COM SCI C174C,Computer Animation,[4.0],['COM SCI 174A']
+COM SCI 180,Introduction to Algorithms and Complexity,[4.0],"['COM SCI 32', 'MATH 61']"
+COM SCI 181,Theory of Computing,[4.0],['COM SCI 180']
+COM SCI M182,Dynamic Biosystem Modeling and Simulation Methodology,[4.0],"[['&, LS 30A, LS 30B', '&, MATH 3A, MATH 3B', '&, MATH 31A, MATH 31B']]"
+COM SCI 183,Introduction to Cryptography,[4.0],['COM SCI 180']
+COM SCI M184,Introduction to Computational and Systems Biology,[2.0],"[['COM SCI 31', 'CE M20', 'M&AE M20', 'PIC 10A'], ['LS 30B', 'MATH 3B', 'MATH 31B']]"
+COM SCI CM186,Computational Systems Biology: Modeling and Simulation of Biological Systems,[5.0],"[['&, LS 30A, LS 30B', '&, MATH 31A, MATH 31B'], ['MATH 32A', 'MATH M32T'], 'MATH 33A', 'MATH 33B']"
+COM SCI CM187,Research Communication in Computational and Systems Biology,[4.0],"[['COM SCI M182', 'COM SCI CM186', 'C&S BIO M150'], ['COM SCI 199', 'BIOENGR 199', 'C&S BIO 199']]"
+COM SCI 188,Special COM SCI in Computer Science,[4.0],[]
+COM SCI 188SA,Individual Studies for USIE Facilitators,[1.0],['Honors Collegium 101E']
+COM SCI 188SB,Individual Studies for USIE Facilitators,[1.0],['COM SCI 188SA']
+COM SCI 188SC,Individual Studies for USIE Facilitators,[2.0],['COM SCI 188SB']
+COM SCI 192,Methods and Application of Collaborative Learning Theory in LS,[2.0],"[['COM SCI 192A','LS 192A']]"
+COM SCI M192A,Introduction to Collaborative Learning Theory and Practice,[1.0],[]
+COM SCI 194,Research Group Seminars: Computer Science,[4.0],[]
+COM SCI 199,Directed Research in Computer Science,"[2.0, 8.0]",[]

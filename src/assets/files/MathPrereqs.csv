@@ -1,0 +1,127 @@
+MATH_ID,MATH_Name,Units,Prerequisites
+MATH 1,Precalculus,[4.0],['successful completion of Mathematics Diagnostic Test']
+MATH 3A,Calculus for LS Students,[4.0],['MATH 1']
+MATH 3B,Calculus for LS Students,[4.0],['MATH 3A']
+MATH 3C,Ordinary Differential Equations with Linear Algebra for Life Science Students,[4.0],['MATH 3B']
+MATH 11N,Gateway to Mathematics: Number Theory,[4.0],"['MATH 31A', 'MATH 31B']"
+MATH 19,Fiat Lux Freshman Seminars,[1.0],"['MATH 31A', 'MATH 31B']"
+MATH 31A,Differential and Integral Calculus,[4.0],['MATH 1']
+MATH 31AL,Differential and Integral Calculus Laboratory,[5.0],['MATH 1']
+MATH 31B,Integration and Infinite Series,[4.0],['MATH 31A']
+MATH 31BH,Integration and Infinite Series (Honors),[4.0],['MATH 31A']
+MATH 31E,Calculus for Economics Students,[4.0],['MATH 31A']
+MATH 32A,Calculus of Several Variables,[4.0],['MATH 31A']
+MATH 32AH,Calculus of Several Variables (Honors),[4.0],['MATH 31A']
+MATH 32B,Calculus of Several Variables,[4.0],"['MATH 31B, 'MATH 32A']"
+MATH 32BH,Calculus of Several Variables (Honors),[4.0],"['MATH 31B, ''MATH 32A']"
+MATH M32T,Essential Calculus for Mathematical Biologists,[4.0],"['LS 30A', 'LS 30B']"
+MATH 33A,Linear Algebra and Applications,[4.0],"[['MATH 3B, 'MATH 31B, 'MATH 32A']]"
+MATH 33AH,Linear Algebra and Applications (Honors),[4.0],"[['MATH 3B, 'MATH 31B, 'MATH 32A']]"
+MATH 33B,Differential Equations,[4.0],['MATH 31B']
+MATH 42,"Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything",[4.0],"['MATH 31A', 'MATH 31B', 'MATH 32A', 'MATH 32B', 'MATH 33A', ['STATS 10', 'STATS 12', 'STATS 13'], ['COM SCI 31', 'PIC 10A', 'STATS 20']]"
+MATH 61,Introduction to Discrete Structures,[4.0],"['MATH 31A', 'MATH 31B']"
+MATH 70,Introduction to Probability,[4.0],"['MATH 31A', 'MATH 31B']"
+MATH 73XP,Key Issues in K-12 Mathematics,[3.0],"['MATH 31A', 'MATH 31B']"
+MATH 74XP,Mathematics and Pedagogy for Teaching Elementary Mathematics,[3.0],"['MATH 31A', 'MATH 31B']"
+MATH 75XP,Mathematics and Pedagogy for Teaching Middle School Mathematics,[3.0],"['MATH 31A', 'MATH 31B']"
+MATH 89,Honors Seminars,[1.0],"['MATH 31A', 'MATH 31B']"
+MATH 89HC,Honors Contracts,[1.0],"['MATH 31A', 'MATH 31B']"
+MATH 94,Mathematical Outreach: Explorations of Mathematics in the Physical World,[6.0],"['MATH 31A', 'MATH 31B']"
+MATH 95,Transition to Upper-Division Mathematics,[4.0],"['MATH 32A', 'MATH 32B']"
+MATH 97,Variable Topics in Mathematics,[4.0],"['MATH 32A', 'MATH 32B']"
+MATH 98XA,PEERS Collaborative Learning Workshops for LS Majors,[1.0],[]
+MATH 98XB,PEERS Collaborative Learning Workshops for Physical Sciences and Engineering Majors,[1.0],[]
+MATH 99,Student Research Program,"[1.0, 2.0]",[]
+MATH 100,Problem Solving,[4.0],['MATH 31A']
+MATH 101,Advanced Problem Solving,[4.0],['MATH 100']
+MATH 103A,Mathematics and Pedagogy for Teaching Middle School Mathematics,[2.0],['MATH 115A']
+MATH 103B,Observation and Participation: Mathematics Instruction,[2.0],['MATH 103A']
+MATH 103C,Observation and Participation: Mathematics Instruction,[2.0],['MATH 103B']
+MATH 105A,Mathematics and Pedagogy for Teaching Secondary School Mathematics,[4.0],"[['MATH 110A', 'MATH 117'], ['MATH 120A', 'MATH 123'], 'MATH 131A']"
+MATH 105B,Mathematics and Pedagogy for Teaching Secondary School Mathematics,[4.0],"['MATH 105A', ['MATH 110A', 'MATH 117'], ['MATH 120A', 'MATH 123'], 'MATH 131A']"
+MATH 105C,Mathematics and Pedagogy for Teaching Secondary School Mathematics,[4.0],"['MATH 105A', 'MATH 105B', ['MATH 110A', 'MATH 117'], ['MATH 120A', 'MATH 123'], 'MATH 131A']"
+MATH 106,History of Mathematics,[4.0],"['MATH 31A', 'MATH 31B', 'MATH 32A']"
+MATH 110A,Algebra,[4.0],['MATH 115A']
+MATH 110AH,Algebra (Honors),[4.0],['MATH 115A']
+MATH 110B,Algebra,[4.0],"[['MATH 110A', 'MATH 117']]"
+MATH 110BH,Algebra (Honors),[4.0],"[['MATH 110A', 'MATH 117']]"
+MATH 110C,Algebra,[4.0],"['MATH 110A', 'MATH 110B']"
+MATH 111,Theory of Numbers,[4.0],['MATH 110A']
+MATH 114C,Computability Theory,[4.0],"[['MATH 110A', 'MATH 131A', 'PHILOS 135']]"
+MATH 114L,Mathematical Logic,[4.0],"[['MATH 110A', 'MATH 131A', 'PHILOS 135']]"
+MATH M114S,Introduction to Set Theory,[4.0],"[['MATH 110A', 'MATH 131A', 'PHILOS 135']]"
+MATH 115A,Linear Algebra,[5.0],['MATH 33A']
+MATH 115AH,Linear Algebra (Honors),[5.0],['MATH 33A']
+MATH 115B,Linear Algebra,[4.0],['MATH 115A']
+MATH 116,Mathematical Cryptology,[4.0],['MATH 115A']
+MATH 117,Algebra for Applications,[4.0],['MATH 115A']
+MATH 118,Mathematical Methods of Data Theory,[4.0],"['MATH 42', 'MATH 115A']"
+MATH 120A,Differential Geometry,[4.0],"['MATH 32B', 'MATH 33B', 'MATH 115A', 'MATH 131A']"
+MATH 120B,Differential Geometry,[4.0],"['MATH 32B', 'MATH 33B', 'MATH 115A', 'MATH 120A', 'MATH 131A']"
+MATH 121,Introduction to Topology,[4.0],['MATH 131A']
+MATH 123,Foundations of Geometry,[4.0],['MATH 115A']
+MATH 131A,Analysis,[4.0],"['MATH 32B', 'MATH 33B']"
+MATH 131AH,Analysis (Honors),[4.0],"['MATH 32B', 'MATH 33B']"
+MATH 131B,Analysis,[4.0],"['MATH 33B', 'MATH 115A', 'MATH 131A']"
+MATH 131BH,Analysis (Honors),[4.0],"['MATH 33B', 'MATH 115A', 'MATH 131A']"
+MATH 131C,Topics in Analysis,[4.0],['MATH 131A', M'ATH 131B']
+MATH 132,Complex Analysis for Applications,[4.0],"['MATH 32B', 'MATH 33B']"
+MATH 132H,Complex Analysis (Honors),[4.0],"['MATH 32B', 'MATH 33B', 'MATH 131A']"
+MATH 133,Introduction to Fourier Analysis,[4.0],"['MATH 33A', 'MATH 33B', 'MATH 131A']"
+MATH 134,Linear and Nonlinear Systems of Differential Equations,[4.0],['MATH 33B']
+MATH 135,Ordinary Differential Equations,[4.0],"['MATH 33A', 'MATH 33B']"
+MATH 136,Partial Differential Equations,[4.0],"['MATH 33A', 'MATH 33B']"
+MATH 142,Mathematical Modeling,[4.0],"['MATH 32B', 'MATH 33B']"
+MATH 146,Methods of Applied Mathematics,[4.0],"['MATH 32B', 'MATH 33B']"
+MATH M148,Experience of Data Science,[4.0],"['MATH 118', 'MATH 131A', ['MATH 156', 'STATS 101C'], ['MATH 170S', 'STATS 100B'], 'STATS 101A']"
+MATH 151A,Applied Numerical Methods,[4.0],"['MATH 32B', 'MATH 33B', 'MATH 115A', ['COM SCI 31', 'PIC 10A']]"
+MATH 151AH,Numerical Analysis Part 1 (Honors),[4.0],"['MATH 32B', 'MATH 33B', 'MATH 115A', 'MATH 131A', ['COM SCI 31', 'PIC 10A']]"
+MATH 151B,Applied Numerical Methods,[4.0],['MATH 151A']
+MATH 151BH,Numerical Analysis Part 2 (Honors),[4.0],"['MATH 115A', 'MATH 131A', 'MATH 151A', ['COM SCI 31', 'PIC 10A']]"
+MATH 155,Mathematical Imaging,[4.0],"['MATH 32B', 'MATH 33B', 'MATH 115A', ['COM SCI 31', 'PIC 10A']]"
+MATH 156,Machine Learning,[4.0],"['MATH 115A', 'MATH 164', ['MATH 170A', 'MATH 170E', 'STATS 100A'], ['COM SCI 31', 'PIC 10A']]"
+MATH 164,Optimization,[4.0],"['MATH 115A', 'MATH 131A']"
+MATH 167,Mathematical Game Theory,[4.0],['MATH 115A']
+MATH 168,Introduction to Networks,[4.0],"['MATH 115A', ['MATH 170A', 'MATH 170E', 'STATS 100A', 'ECE 131']]"
+MATH 170A,Probability Theory I,[4.0],"['MATH 32B', 'MATH 33A', 'MATH 131A']"
+MATH 170B,Probability Theory II,[4.0],"['MATH 131A', 'MATH 170a']"
+MATH 170E,Introduction to Probability and STATS 1: Probability,[4.0],"['MATH 31A', 'MATH 31B']"
+MATH 170E,Introduction to Probability and STATS 1: Probability (Effective Spring 2024 ),[4.0],"['MATH 31A', 'MATH 31B']"
+MATH 170S,Introduction to Probability and STATS 2: STATS,[4.0],"['MATH 31A', 'MATH 31B', ['MATH 170A', 'MATH 170E', 'STATS 100A']]"
+MATH 171,Stochastic Processes,[4.0],"['MATH 33A', ['MATH 170A', 'MATH 170E', 'STATS 100A']]"
+MATH 174E,Mathematics of Finance for Mathematics/Economics Students,[4.0],"['MATH 33A', ['MATH 170A', 'MATH 170E', 'STATS 100A']]"
+MATH 177,Theory of Interest and Applications,[4.0],['MATH 32B']
+MATH 178A,Foundations of Actuarial Mathematics: Life Insurance and Annuities,[4.0],"['MATH 32B', ['MATH 170A', 'MATH 170E', 'STATS 100A'], ['MATH 175', 'MATH 177']]"
+MATH 178B,Foundations of Actuarial Mathematics: Additional Topics in Long-Term Actuarial Mathematics,[4.0],"[['MATH 170S', 'MATH 170B', 'STATS 100B'], 'MATH 178A']"
+MATH 178C,Foundations of Actuarial Mathematics: Loss Models,[4.0],['MATH 178B']
+MATH 179,Advanced Topic in Financial Mathematics,[4.0],['MATH 174E']
+MATH 180,Graph Theory,[4.0],"['MATH 31A', 'MATH 31B', 'MATH 61']"
+MATH 182,Algorithms,[4.0],"[['MATH 3C', 'MATH 32A'], 'MATH 61']"
+MATH 184,Enumerative Combinatorics,[4.0],"['MATH 31A', 'MATH 31B', 'MATH 61', 'MATH 115A']"
+MATH 188SA,Individual Studies for USIE Facilitators,[1.0],['Honors Collegium 101E']
+MATH 188SB,Individual Studies for USIE Facilitators,[1.0],['MATH 188SA']
+MATH 188SC,Individual Studies for USIE Facilitators,[2.0],['MATH 188SB']
+MATH 189,Advanced Honors Seminars,[1.0],['MATH 188SB']
+MATH 189HC,Honors Contracts,[1.0],['MATH 188SB']
+MATH 190A,Seminar: Current Literature in History and Development of Mathematics,[1.0],['MATH 188SB']
+MATH 190B,Seminar: Current Literature in Number Theory,[1.0],['MATH 188SB']
+MATH 190C,Seminar: Current Literature in Algebra,[1.0],['MATH 188SB']
+MATH 190D,Seminar: Current Literature in Logic,[1.0],['MATH 188SB']
+MATH 190E,Seminar: Current Literature in Geometry,[1.0],['MATH 188SB']
+MATH 190F,Seminar: Current Literature in Topology,[1.0],['MATH 188SB']
+MATH 190G,Seminar: Current Literature in Analysis,[1.0],['MATH 188SB']
+MATH 190H,Seminar: Current Literature in Differential Equations,[1.0],['MATH 188SB']
+MATH 190I,Seminar: Current Literature in Functional Analysis,[1.0],['MATH 188SB']
+MATH 190J,Seminar: Current Literature in Applied Mathematics,[1.0],['MATH 188SB']
+MATH 190K,Seminar: Current Literature in Probability,[1.0],['MATH 188SB']
+MATH 190L,Seminar: Current Literature in Dynamical Systems,[1.0],['MATH 188SB']
+MATH 190M,Seminar: Current Literature in Mathematics,[1.0],['MATH 188SB']
+MATH 190N,Seminar: Current Literature in Combinatorics,[1.0],['MATH 188SB']
+MATH 190O,Seminar: Current Literature in Cryptography,[1.0],['MATH 188SB']
+MATH 191,Variable Topics Research Seminars: Mathematics,[4.0],['MATH 188SB']
+MATH 191H,Honors Research Seminars: Mathematics,[4.0],['MATH 188SB']
+MATH M192A,Introduction to Collaborative Learning Theory and Practice,[1.0],['MATH 188SB']
+MATH 192B,Collaborative Learning Theory and Practice,"[2.0, 4.0]",['MATH M192A', '(may be taken concurrently)']
+MATH 195,Community Internships in Mathematics Education,[4.0],['MATH M192A', '(may be taken concurrently)']
+MATH 197,Individual Studies in Mathematics,"[2.0, 4.0]",['MATH M192A', '(may be taken concurrently)']
+MATH 199,Directed Research or Senior Project in Mathematics,"[2.0, 4.0]",['MATH M192A', '(may be taken concurrently)']

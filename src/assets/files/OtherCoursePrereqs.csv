@@ -1,0 +1,14 @@
+PHYSICS 1A,Physics for Scientists and Engineers: Mechanics,[5.0],"['MATH 31A','MATH 32B']"
+PHYSICS 1B,Physics for Scientists and Engineers: Fluids, Oscillations, Waves, and Electricity,[5.0],"['PHYSICS 1A','MATH 31A','MATH 32B']"
+PHYSICS 1C,Physics for Scientists and Engineers: Magnetism, Electrodynamics, Optics, and Special Relativity,[5.0],"['PHYSICS 1A','PHYSICS 1B','MATH 31A','MATH 32B']"
+PHYSICS 4AL,Physics Laboratory for Scientists and Engineers: Mechanics,[2.0],['PHYSICS 1A']
+PHYSICS 4BL,Physics Laboratory for Scientists and Engineers: Electricity and Magnetism,[2.0],"['PHYSICS 1A','PHYSICS 1B']"
+STATS 100A,Introduction to Probability,[4.0],"['MATH 32A','MATH 32B']"
+STATS 100B,Introduction to Mathematical Statistics,[4.0],"[['MATH 170S','STATS 100A']]"
+PIC 10A,Introduction to Programming,[5.0],[]
+PIC 10B,Intermediate Programming,[5.0],['PIC 10A']
+PIC 10C,Advanced Programming,[5.0],['PIC 10C']
+PIC 16A,Python with Applications I,[5.0],"[['PIC 10A','COM SCI 31']]"
+PIC 16B,Python with Applications II,[5.0],['PIC 16A']
+PIC 20A,Principles of Java Language with Applications,[5.0],"[['PIC 10A','COM SCI 31']]"
+PIC 40A,Introduction to Programming for Internet,[5.0],"[['PIC 10A','COM SCI 31'],['PIC 10B','PIC 16A','PIC 20A','COM SCI 32']]"

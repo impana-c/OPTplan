@@ -1,0 +1,38 @@
+Course_ID,Quarters_Offered
+COM SCI 1,['Fall']
+COM SCI 30,['Fall']
+COM SCI 31,"['Fall', 'Winter', 'Spring']"
+COM SCI 32,"['Fall', 'Winter', 'Spring']"
+COM SCI 33,"['Fall', 'Spring']"
+COM SCI 35L,"['Fall', 'Winter', 'Spring']"
+COM SCI M51A,"['Fall', 'Winter', 'Spring']"
+COM SCI 111,"['Fall', 'Winter', 'Spring']"
+COM SCI 118,"['Fall', 'Winter', 'Spring']"
+COM SCI 119,['Fall']
+COM SCI 121,['Spring']
+COM SCI 122,['Winter']
+COM SCI 124,['Fall']
+COM SCI 130,"['Fall', 'Winter', 'Spring']"
+COM SCI 131,"['Fall', 'Winter', 'Spring']"
+COM SCI 132,['Spring']
+COM SCI 133,['Fall']
+COM SCI 136,['Spring']
+COM SCI 143,['Winter']
+COM SCI 144,['Spring']
+COM SCI 145,['Spring']
+COM SCI 146,"['Fall', 'Winter', 'Spring']"
+COM SCI 148,"['Fall', 'Winter', 'Spring']"
+COM SCI M151B,"['Fall', 'Winter', 'Spring']"
+COM SCI M152A,"['Fall', 'Winter', 'Spring']"
+COM SCI 152B,"['Fall', 'Winter', 'Spring']"
+COM SCI 161,"['Winter', 'Spring']"
+COM SCI 162,['Winter']
+COM SCI 174A,"['Fall', 'Winter', 'Spring']"
+COM SCI C174C,['Winter']
+COM SCI 180,"['Fall', 'Winter', 'Spring']"
+COM SCI 181,"['Fall', 'Winter', 'Spring']"
+COM SCI 182,"['Fall', 'Winter']"
+COM SCI 183,[]
+COM SCI 184,['Fall']
+COM SCI 186,['Spring']
+COM SCI 188,"['Winter', 'Spring']"

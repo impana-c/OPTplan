@@ -1,0 +1,88 @@
+Course_ID,Quarters_Offered
+MATH 1,"['Fall', 'Spring']"
+MATH 3A,"['Fall', 'Spring']"
+MATH 3B,"['Winter', 'Spring']"
+MATH 3C,['Spring']
+MATH 11N,['Spring']
+MATH 19,['Fall']
+MATH 31A,"['Fall', 'Winter', 'Spring']"
+MATH 31AL,"['Fall', 'Winter', 'Spring']"
+MATH 31B,"['Fall', 'Winter', 'Spring']"
+MATH 32A,"['Fall', 'Winter', 'Spring']"
+MATH 32AH,['Fall']
+MATH 32B,"['Fall', 'Winter', 'Spring']"
+MATH 32BH,['Winter']
+MATH 33A,"['Fall', 'Winter', 'Spring']"
+MATH 33B,"['Fall', 'Winter', 'Spring']"
+MATH 42,"['Fall', 'Spring']"
+MATH 61,"['Fall', 'Winter', 'Spring']"
+MATH 70,"['Fall', 'Spring']"
+MATH 73XP,['Fall']
+MATH 74XP,['Winter']
+MATH 75XP,['Spring']
+MATH 89HC,['Fall']
+MATH 95,['Spring']
+MATH 100,['Fall']
+MATH 101,['Fall']
+MATH 105A,['Fall']
+MATH 105B,['Winter']
+MATH 105C,['Spring']
+MATH 106,['Winter']
+MATH 110A,"['Fall', 'Winter']"
+MATH 110AH,['Fall']
+MATH 110B,"['Winter', 'Spring']"
+MATH 110BH,['Winter']
+MATH 110C,['Spring']
+MATH 111,['Spring']
+MATH 114L,['Spring']
+MATH M32T,['Fall']
+MATH M192A,"['Fall', 'Winter', 'Spring']"
+MATH M114S,['Winter']
+MATH M148,"['Winter', 'Spring']"
+MATH 115A,"['Fall', 'Winter', 'Spring']"
+MATH 115AH,"['Fall', 'Winter', 'Spring']"
+MATH 115B,"['Winter', 'Spring']"
+MATH 116,['Winter']
+MATH 118,"['Fall', 'Winter']"
+MATH 120A,"['Fall', 'Winter', 'Spring']"
+MATH 121,['Winter']
+MATH 123,['Spring']
+MATH 131A,"['Fall', 'Winter', 'Spring']"
+MATH 131AH,"['Fall', 'Winter']"
+MATH 131B,"['Fall', 'Winter', 'Spring']"
+MATH 131BH,"['Winter', 'Spring']"
+MATH 131C,['Spring']
+MATH 132,"['Fall', 'Winter', 'Spring']"
+MATH 132H,['Spring']
+MATH 134,"['Fall', 'Winter', 'Spring']"
+MATH 135,"['Fall', 'Winter', 'Spring']"
+MATH 142,"['Fall', 'Winter', 'Spring']"
+MATH 146,['Winter']
+MATH 151A,"['Fall', 'Winter', 'Spring']"
+MATH 151AH,['Winter']
+MATH 151B,"['Fall', 'Winter', 'Spring']"
+MATH 151BH,['Spring']
+MATH 155,"['Fall', 'Winter']"
+MATH 156,"['Fall', 'Winter', 'Spring']"
+MATH 164,"['Fall', 'Winter', 'Spring']"
+MATH 167,"['Fall', 'Winter']"
+MATH 168,"['Fall', 'Winter', 'Spring']"
+MATH 170A,"['Fall', 'Winter', 'Spring']"
+MATH 170B,['Spring']
+MATH 170E,"['Fall', 'Winter', 'Spring']"
+MATH 170S,"['Fall', 'Winter', 'Spring']"
+MATH 171,"['Winter', 'Spring']"
+MATH 174E,"['Fall', 'Winter', 'Spring']"
+MATH 177,"['Fall', 'Spring']"
+MATH 178A,['Fall']
+MATH 178B,"['Winter', 'Spring']"
+MATH 178C,['Spring']
+MATH 179,"['Fall', 'Spring']"
+MATH 180,"['Fall', 'Winter']"
+MATH 182,"['Fall', 'Winter', 'Spring']"
+MATH 184,['Spring']
+MATH 191,['Spring']
+MATH 192B,"['Fall', 'Winter']"
+MATH 195,"['Fall', 'Winter']"
+MATH 197,"['Fall', 'Winter']"
+MATH 199,"['Fall', 'Winter']"
